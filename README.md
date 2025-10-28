@@ -33,4 +33,6 @@ User follower and following count, Follow and unfollow user, Edit post, Paginato
 ### Other projects
 * [Speed Me Up Win 10](https://github.com/trndav/PythonCodes/blob/main/speed_me_up_win10.bat) - Speeds up Win 10 system by removing some default Win 10 startup applications (like OneDrive), disable background processes, services and Task Scheduler tasks (like Location, Mobile, Maps, Xbox), delete temp files, acceleration of visual performance and some other minor details. This configuration works well for users in big networks that use Active Directory services and sharing, while home users can disable even more services.
 
+* [OGSZG - case law search engine](https://github.com/trndav/PythonCodes/tree/main/ogszg_sudska_praksa) - Web application in Python/Flask that extracts case laws from .docx documents and adds them to the database according to default rules. Case laws can be searched by keywords.
+
 Developed and managed over 20 WordPress websites with a strong emphasis on SEO optimization. Built diverse types of sites, including e-commerce platforms, multi-user environments, and automated content generation systems. Skilled in setting up and customizing payment gateways and implementing affiliate reward functionalities.
